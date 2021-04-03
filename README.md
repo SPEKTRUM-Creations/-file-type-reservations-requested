@@ -10,7 +10,7 @@ Note: additionally, this file contains descriptions of details concerning the do
 
 Available file extensions
 see: https://fileinfo.com
-<code>
+<pre>
 .lpz, .lpa      LP album bundle 
 .xlp            executable LP album
 .spkml     	utf-16* text markdown
@@ -25,7 +25,7 @@ see: https://fileinfo.com
 .spkg        	package/plugin
 .spkui		ui element files
 .spkimg		raster|vector image‡ 
-</code>
+</pre>
 
 
 Besides building these file type  definitions each of these files Will also require either programs to run these file types as default or through plug-ins or coded  modules added to existing programs that normally handle each kind of file type, respectively.  so for instance, if either Spotify or Apple Music more to incorporate the .lpz format it would either require it being hardcoded into the apps extending the functionality of either app to adopt and impliment the format on their platform
